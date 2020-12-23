@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/boltex33.github.io/precache-manifest.8da16b484425622663f1bcc4ce21bd7b.js"
+  "/boltex33.github.io/precache-manifest.ca7da658037a94bfef68d0738c0ab6a7.js"
 );
 
 self.addEventListener('message', (event) => {
